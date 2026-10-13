@@ -2,7 +2,6 @@
 
 ## About the Project
 
-I created this Student Management System using Python as a project to practise my programming skills and understand how object-oriented programming works in a practical application.
 
 The program allows users to manage student records through a simple menu-driven interface. Users can add new students, view their details, search for a student using their roll number, update information, and delete records. It also calculates the average marks of each student and uses a CSV file to store records so they can be loaded again when the program is restarted.
 
